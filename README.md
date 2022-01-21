@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @L5m1ty
+- 👀 I’m interested in Reverse Engineering Games and Exploiting
+- 🌱 I’m currently learning C++, C#, Lua and a bit of Python
+- 💞️ I’m looking to collaborate on Roblox Exploiting xD
+- 📫 How to reach me: Lumity#5626
