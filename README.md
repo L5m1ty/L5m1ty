@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @L5m1ty
-- 👀 I’m interested in Reverse Engineering Games and Exploiting
-- 🌱 I’m currently learning C++, C#, Lua and a bit of Python
-- 💞️ I’m looking to collaborate on Roblox Exploiting xD
-- 📫 How to reach me: Lumity#5626
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=L5m1ty&style=flat-square&color=purple" alt=""/>
