@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi!👋  I am Lumity#5626💜</h1>
+  <h1>Hi💜! I am Lumity#5626</h1>
   <img src="https://media.discordapp.net/attachments/964977229903822968/1056293754081918997/cecila1.gif" width="600" height="300"/>
 </div>
   
